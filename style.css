@@ -1,0 +1,27 @@
+
+
+#pattern{
+    background-image: url(img/pattern.png);
+    background-color: lightblue;
+}
+
+#imgpattern{
+    height: 100px;
+}
+
+
+.testogrigio{
+    color: gray;
+}
+
+.divinline{
+    display: inline-block;
+}
+
+#trblue{
+    background-color: rgb(42, 147, 239);
+    color: white;
+}
+.trlightblue{
+    background-color: lightblue;
+}
